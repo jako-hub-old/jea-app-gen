@@ -1,0 +1,11 @@
+-------------------------------
+Versión 1.0 
+-------------------------------
+- New # 1       Se agrega la funcionalidad de crear aplicaciones al controlador principal (Jako)
+- New # 2       Se agrega la posibilidad de adicionar tema a una aplicación generada (Jako)
+- New # 3       Se agrega la posiiblidad de mostrar la previsualización del tema seleccionado (Jako)
+- New # 4       Se reemplazan los espacios y caracteres especiales en el nombre de la aplicación (Jako)
+- New # 5       Se agrega un tema llamado webapp-1 (Jako)
+- New # 6       Se agrega una plantilla base de aplicación (Jako)
+
+- Bug # 1       Al ingresar sin inicar sesión al inicio se permitia el acceso (Corregido - Jako)

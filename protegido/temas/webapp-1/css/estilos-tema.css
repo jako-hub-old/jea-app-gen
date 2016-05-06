@@ -1,0 +1,18 @@
+/* Estilos del menú lateral */
+.nav-bar-tmp {
+    position: fixed;
+    width: 17%;
+    left: 0px;
+    height: 100%;
+    top: 50px;
+    z-index: 1000;
+}
+
+.main-content{
+    margin-top: 80px;
+}
+.wa-help-icon, .wa-config-icon{
+    font-size: 20px;
+    padding: 10px;
+}
+
